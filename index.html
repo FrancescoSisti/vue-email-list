@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="it">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Email List</title>
+    <title>Lista Email</title>
 
     <!-- Link CSS -->
     <link rel="stylesheet" href="style/style.css">
@@ -32,6 +32,9 @@
                 {{ email }}
             </li>
         </ul>
+        <div class="text-center mt-4">
+            <button @click="generateEmails" class="btn btn-primary">Genera nuove email</button>
+        </div>
     </div>
 
     <footer>
@@ -40,8 +43,8 @@
                 <i class="fab fa-github github-icon"></i>
                 <a href="https://github.com/FrancescoSisti" target="_blank">Il mio GitHub</a>
             </span>
-            <span class="footer-text">&copy; 2024 Email List</span>
-            <span class="footer-text">Made with ❤️ by Francesco Sisti</span>
+            <span class="footer-text">&copy; 2024 Lista Email</span>
+            <span class="footer-text">Realizzato con ❤️ da Francesco Sisti</span>
         </div>
     </footer>
     <!-- Link Axios -->
