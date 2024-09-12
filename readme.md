@@ -6,7 +6,6 @@ Questa applicazione web offre un'interfaccia utente intuitiva per generare email
 
 ### 📧 Generatore di Email Casuali
 - ✉️ Genera 10 indirizzi email casuali simultaneamente
-- 🎨 Visualizza le email in una lista elegante con effetti di hover
 - 📋 Permette di copiare facilmente le email generate con un solo clic
 - 🔄 Offre la possibilità di rigenerare un nuovo set di email
 
@@ -30,6 +29,4 @@ Questa applicazione web offre un'interfaccia utente intuitiva per generare email
 - 🌐 Axios per le richieste API
 - 🎨 Bootstrap per lo styling di base
 - 🎭 FontAwesome per le icone
-- 🖌️ CSS personalizzato per effetti visivi avanzati
-
-Questa applicazione combina funzionalità pratiche con un'estetica moderna, offrendo un'esperienza utente piacevole e intuitiva per la generazione di email e password casuali. 🌈✨
+- 🖌️ CSS personalizzato per effetti visivi avanzati.
